@@ -1,6 +1,8 @@
 # SporTI
 Angular project for SporTI.
+
 Angular Material used for UI components.
+
 Backend url: https://github.com/RafaelGino/Sporti-Back
 
 ## Development server
