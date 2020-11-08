@@ -1,8 +1,10 @@
 # SporTI
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+Angular project for SporTI.
+Angular Material used for UI components.
+Backend url: https://github.com/RafaelGino/Sporti-Back
 
 ## Development server
+Run `npm install`for download modules.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
